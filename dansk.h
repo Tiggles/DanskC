@@ -21,9 +21,10 @@
 #define tælling enum
 #define tomrum void
 #define sandhedsværdi bool
-#define lægge_til +
-#define trække_fra -
-#define gange_med *
+#define lagt_til +
+#define trukket_fra -
+#define ganget_med *
 #define delt_med /
+#define med_størrelse_af size_of
 
 //#define \u200B NULL
