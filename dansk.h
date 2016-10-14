@@ -1,3 +1,4 @@
+
 #pragma once
 
 #define heltal int
@@ -23,6 +24,9 @@
 #define tomrum void
 #define ingenting NULL
 #define intet NULL
-#define sandhedsværdi bool
+#define sandhedsværdi int 
+#define sandt 1
+#define falsk 0
+
 
 //#define \u200B NULL
