@@ -24,10 +24,6 @@
 #define tælling enum
 #define tomrum void
 #define sandhedsværdi bool
-#define lagt_til +
-#define trukket_fra -
-#define ganget_med *
-#define delt_med /
 #define med_størrelse_af size_of
 #define ingenting NULL
 #define intet NULL
@@ -41,6 +37,5 @@
 #define udskriv printf
 #define sov sleep
 #define bunke_allokering malloc
->>>>>>> af51db39730a5b3f28757d1df62dda635eb16a6f
 
 //#define \u200B NULL
