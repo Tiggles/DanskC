@@ -31,5 +31,6 @@
 #define sandt 1
 #define falsk 0
 #define sammenslutning union
+#define sov sleep
 
 //#define \u200B NULL
