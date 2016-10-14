@@ -21,6 +21,8 @@
 #define tælling enum
 #define tomrum void
 #define sandhedsværdi bool
+#define sandt 1
+#define falsk 0
 
 
 //#define \u200B NULL
