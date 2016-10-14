@@ -31,19 +31,22 @@
 #define falsk 0
 #define sammenslutning union
 
-#define en 1
-#define to 2
-#define tre 3
-#define fire 4
-#define fem 5
-#define seks 6
-#define syv 7
-#define otte 8
-#define ni 9
-#define ti 10
-#define hundrede 100
-#define tusinde 1000
-#define million 1000000
+#define EN 1
+#define ET 1
+#define TO 2
+#define TRE 3
+#define FIRE 4
+#define FEM 5
+#define SEKS 6
+#define SYV 7
+#define OTTE 8
+#define NI 9
+#define TI 10
+#define HUNDREDE 100
+#define HUNDRED 100
+#define TUSINDE 1000
+#define MILLION 1000000
+#define MILLIARD 1000000000
 
 // stdlib
 #define udskriv printf
