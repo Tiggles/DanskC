@@ -23,6 +23,8 @@
 #define udgangspunkt default
 #define tælling enum
 #define tomrum void
+#define sandhedsværdi bool
+#define med_størrelse_af size_of
 #define ingenting NULL
 #define intet NULL
 #define enten_eller union
