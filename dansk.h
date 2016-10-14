@@ -10,7 +10,6 @@
 #define imens while
 #define hvis if
 #define ellers else
-#define udskriv printf
 #define vend_tilbage return // Find bedre navn
 #define vend_tilbage_med return // Find bedre navn
 #define efterlad return
@@ -31,6 +30,10 @@
 #define sandt 1
 #define falsk 0
 #define sammenslutning union
+
+// stdlib
+#define udskriv printf
 #define sov sleep
+#define bunke_allokering malloc
 
 //#define \u200B NULL
