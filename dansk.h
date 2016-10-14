@@ -3,6 +3,8 @@
 
 #define heltal int
 #define svævende_punkt float
+#define uskiltet unsigned
+#define kort short
 #define lang long
 #define dobbel double
 #define imens while
