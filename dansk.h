@@ -1,3 +1,4 @@
+
 #pragma once
 
 #define heltal int
@@ -10,6 +11,7 @@
 #define udskriv printf
 #define vend_tilbage return // Find bedre navn
 #define vend_tilbage_med return // Find bedre navn
+#define efterlad return
 #define tegn char
 #define struktur struct
 #define øgenavn typedef
@@ -20,6 +22,8 @@
 #define udgangspunkt default
 #define tælling enum
 #define tomrum void
+#define ingenting NULL
+#define intet NULL
 #define sandhedsværdi int 
 #define sandt 1
 #define falsk 0
