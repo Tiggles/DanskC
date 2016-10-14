@@ -27,6 +27,6 @@
 #define sandhedsværdi int 
 #define sandt 1
 #define falsk 0
-
+#define sammenslutning union
 
 //#define \u200B NULL
