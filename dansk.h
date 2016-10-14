@@ -24,6 +24,8 @@
 #define tomrum void
 #define ingenting NULL
 #define intet NULL
+#define sandhedsværdi bool
+#define enten_eller union
 #define sandhedsværdi int 
 #define sandt 1
 #define falsk 0
