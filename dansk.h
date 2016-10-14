@@ -31,6 +31,7 @@
 #define falsk 0
 #define sammenslutning union
 
+#define NUL 0
 #define EN 1
 #define ET 1
 #define TO 2
