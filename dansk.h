@@ -33,6 +33,24 @@
 #define falsk 0
 #define sammenslutning union
 
+#define NUL 0
+#define EN 1
+#define ET 1
+#define TO 2
+#define TRE 3
+#define FIRE 4
+#define FEM 5
+#define SEKS 6
+#define SYV 7
+#define OTTE 8
+#define NI 9
+#define TI 10
+#define HUNDREDE 100
+#define HUNDRED 100
+#define TUSINDE 1000
+#define MILLION 1000000
+#define MILLIARD 1000000000
+
 // stdlib
 #define udskriv printf
 #define sov sleep
