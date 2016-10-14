@@ -20,7 +20,7 @@
 #define udgangspunkt default
 #define tælling enum
 #define tomrum void
-#define sandhedsværdi bool
+#define sandhedsværdi int 
 #define sandt 1
 #define falsk 0
 
