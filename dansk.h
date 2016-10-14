@@ -1,3 +1,4 @@
+
 #pragma once
 
 #define heltal int
@@ -25,5 +26,9 @@
 #define intet NULL
 #define sandhedsværdi bool
 #define enten_eller_structur union
+#define sandhedsværdi int 
+#define sandt 1
+#define falsk 0
+
 
 //#define \u200B NULL
