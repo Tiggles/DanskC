@@ -24,5 +24,6 @@
 #define ingenting NULL
 #define intet NULL
 #define sandhedsværdi bool
+#define enten_eller union
 
 //#define \u200B NULL
