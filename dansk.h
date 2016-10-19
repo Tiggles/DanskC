@@ -1,5 +1,6 @@
-
-#pragma once
+#ifndef STOP_DIG_SELV
+#define STOP_DIG_SELV
+//#pragma once
 
 #define heltal int
 #define svævende_punkt float
@@ -57,3 +58,4 @@
 #define bunke_allokering malloc
 
 //#define \u200B NULL
+#endif
