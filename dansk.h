@@ -2,14 +2,17 @@
 #pragma once
 
 #define heltal int
-#define svævende_punkt float
-#define uskiltet unsigned
-#define kort short
-#define lang long
-#define dobbel double
+#define kommatal float
+#define ikke_negativt_heltal unsigned
+#define lille_heltal short
+#define stort_heltal long
+#define præcist_kommatal double
 #define imens while
+#define så_længe while
 #define hvis if
+#define såfremt if
 #define ellers else
+#define nå_men_så_bare else
 #define vend_tilbage return // Find bedre navn
 #define vend_tilbage_med return // Find bedre navn
 #define efterlad return
