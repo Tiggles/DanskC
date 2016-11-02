@@ -3,7 +3,7 @@
 
 #define heltal int
 #define kommatal float
-#define ikke_negativt_heltal unsigned
+#define positivt_heltal unsigned
 #define lille_heltal short
 #define stort_heltal long
 #define præcist_kommatal double
