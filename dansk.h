@@ -14,6 +14,7 @@
 #define vend_tilbage return // Find bedre navn
 #define vend_tilbage_med return // Find bedre navn
 #define efterlad return
+#define returnér return
 #define tegn char
 #define struktur struct
 #define øgenavn typedef
@@ -33,6 +34,8 @@
 #define falsk 0
 #define sammenslutning union
 #define hovedfunktion main
+#define statisk static
+#define ekstern extern
 
 #define NUL 0
 #define EN 1
@@ -55,7 +58,8 @@
 // stdlib
 #define udskriv printf
 #define sov sleep
-#define bunke_allokering malloc
+#define hob_allokering malloc
+#define hob_deallokering free
 
 //#define \u200B NULL
 #endif
