@@ -66,6 +66,9 @@
 #define MILLION 1000000
 #define MILLIARD 1000000000
 
+#define PROGRAM_SUCCES 0
+#define PROGRAM_FIASKO 1
+
 // stdlib
 #define udskriv printf
 #define sov sleep

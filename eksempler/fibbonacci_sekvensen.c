@@ -21,7 +21,7 @@ heltal fibbonacci_udregning(tomrum) {
 
 heltal hovedfunktion(heltal antal_argumenter, tegn **argumenterne) {
 
-    for (heltal i = 0; i er_mindre_end_eller_lig 10; i += EN) {
+    for (heltal i = 0; i er_mindre_end_eller_lig TI; i += EN) {
         udskriv("%i\n", fibbonacci_udregning());
     }
 
