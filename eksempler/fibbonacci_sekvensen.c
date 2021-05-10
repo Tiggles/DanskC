@@ -20,10 +20,12 @@ heltal fibbonacci_udregning(tomrum) {
 }
 
 heltal hovedfunktion(heltal antal_argumenter, tegn **argumenterne) {
+    heltal indeks = 0;
 
-    for (heltal i = 0; i er_mindre_end_eller_lig TI; i += EN) {
+    gør {
         udskriv("%i\n", fibbonacci_udregning());
-    }
+        indeks += EN;
+    } imens ( indeks er_mindre_end_eller_lig TI );
 
     vend_tilbage_med 0;
 }
