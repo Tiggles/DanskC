@@ -18,6 +18,7 @@
 #define tegn char
 #define struktur struct
 #define øgenavn typedef
+#define kælenavn typedef
 #define når switch
 #define er case
 #define fortsæt continue
@@ -29,13 +30,23 @@
 #define ingenting NULL
 #define intet NULL
 #define enten_eller union
-#define sandhedsværdi int 
+#define sandhedsværdi int
 #define sandt 1
 #define falsk 0
 #define sammenslutning union
 #define hovedfunktion main
 #define statisk static
 #define ekstern extern
+
+#define ikke !
+#define og &&
+#define eller ||
+#define er_lig ==
+#define er_ikke_lig !=
+#define er_mindre_end <
+#define er_større_end >
+#define er_mindre_end_eller_lig <=
+#define er_større_end_eller_lig >=
 
 #define NUL 0
 #define EN 1

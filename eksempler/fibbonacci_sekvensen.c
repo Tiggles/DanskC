@@ -12,6 +12,7 @@ heltal række_tal[2] = {0, 1};
 heltal fibbonacci_udregning(tomrum) {
     heltal returnerings_værdi = række_tal[0];
     heltal temporal_værdi = returnerings_værdi + række_tal[1];
+
     række_tal[0] = række_tal[1];
     række_tal[1] = temporal_værdi;
 
@@ -20,7 +21,7 @@ heltal fibbonacci_udregning(tomrum) {
 
 heltal hovedfunktion(heltal antal_argumenter, tegn **argumenterne) {
 
-    for (heltal i = 0; i < 10; i += EN) {
+    for (heltal i = 0; i er_mindre_end_eller_lig 10; i += EN) {
         udskriv("%i\n", fibbonacci_udregning());
     }
 
