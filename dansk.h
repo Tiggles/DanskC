@@ -37,6 +37,7 @@
 #define hovedfunktion main
 #define statisk static
 #define ekstern extern
+#define gør do
 
 #define ikke !
 #define og &&
