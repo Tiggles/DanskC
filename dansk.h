@@ -25,8 +25,11 @@
 #define når switch
 #define er case
 #define fortsæt continue
+#define videre continue
 #define afbryd break
+#define stop break
 #define udgangspunkt default
+#define altid default
 #define tælling enum
 #define tomrum void
 #define med_størrelse_af size_of
